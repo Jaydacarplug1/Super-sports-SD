@@ -1,16 +1,16 @@
-# Forum App in React & Redux + Django
+# Super Sports
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+App, built using frontend React+Redux and backend using Django 
 ```
 
 ## Live Demo
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://forum-prod-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://super-sports-frontend.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://super-sports-backend.herokuapp.com/) here!!
 
 ## Tech used
 
