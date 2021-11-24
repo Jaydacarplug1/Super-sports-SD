@@ -599,7 +599,7 @@ td {
 .details .product-details .box2 .border {
 	border-top: 2px solid #FF7F00;
 	font-weight: bold;
-	color: #313636;
+	color: white;
 	white-space: nowrap;
 }
 .details .total p {
