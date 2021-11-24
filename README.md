@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://super-sports-backend.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/adarshs002/Super-sports-SD.git
 ```
 
 2. Backend setting
